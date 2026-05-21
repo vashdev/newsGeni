@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.log
+.uv/
